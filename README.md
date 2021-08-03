@@ -1,4 +1,4 @@
-# project1
+# Personal FInance App
 
 A new Flutter project.
 
