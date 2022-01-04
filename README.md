@@ -2,10 +2,13 @@
 
 A  Simple Flutter based Finance App.
 
-![No Transactions](https://i.imgur.com/CcfYiwi.jpg)
+![No Transactions]<img src="https://i.imgur.com/CcfYiwi.jpg" width="300" height="480">
 
-![Adding Transaction Using Bottom Sheet](https://i.imgur.com/uI2e3lN.jpg)
+![Adding Transaction Using Bottom Sheet]<img src="https://i.imgur.com/uI2e3lN.jpg" width="300" height="480">
 
-![Added One Transaction](https://i.imgur.com/RtAoLEJ.jpg)
 
-![Added Multiple Transaction](https://i.imgur.com/gIb49Vl.jpg)
+![Added One Transaction]<img src="https://i.imgur.com/RtAoLEJ.jpg" width="300" height="480">
+
+
+![Added Multiple Transaction]()<img src="https://i.imgur.com/gIb49Vl.jpg" width="300" height="480">
+
